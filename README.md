@@ -1,1 +1,1 @@
-# week-1-Forest-fire-detection
+Forest-fire-detection
